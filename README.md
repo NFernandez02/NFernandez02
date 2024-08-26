@@ -34,7 +34,28 @@ Solve puzzles under pressure, unlock doors, and outwit the ever-evolving AI. Can
 - Avoid the attacking entity; use small gaps in some rooms to crawl into and escape the entity.
 
 ![GameConcept](https://github.com/NFernandez02/NFernandez02/blob/main/For%20Illustration%20purposes%20only.png)
-#Sample
+
+# Sample
+
 [![Watch the trailer](https://img.youtube.com/vi/yAvNtaIj3bw/hqdefault.jpg)](https://youtu.be/yAvNtaIj3bw)
+
+# Stoicheion: Chemistry Based Card Game
+
+## About
+Stoicheion is a chemistry-based card game where you compete against a computer or another player. The goal is to reduce your opponent's health points to zero in order to win.
+
+## Objective
+The game's main mechanic revolves around the elements' acidity and base levels:
+- **Acidity**: Corresponds to the attack value, directly used to damage your opponent.
+- **Base**: Corresponds to the defense value, which must be played on the field to take effect.
+- The greater the acid level, the higher the attack value, and vice versa.
+
+Each player starts with 50 HP. Each player is dealt 7 cards from the deck and can select one factory card from the deck.
+- **Spell Cards**: Boost factory cards or enhance the effects of element cards.
+- **Factory Cards**: Produce specific elemental cards.
+- During your turn, you can combine elements to create compounds, resulting in more powerful cards for attack or defense.
+- Some cards have special effects that can be activated. Acidity effects can be used from your hand, while Base effects must be on the playing field to activate.
+
+
 
 
