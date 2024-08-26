@@ -18,3 +18,5 @@ Word Clash: Scrabble Showdown is a multiplayer game that combines Scrabble with 
 ## Note
 Each player will be able to see the area where the opponent is likely to play through shadow placement. This indicates the specific area where your opponent will make their move.
 
+## Concept
+![GameConcept](https://github.com/NFernandez02/NFernandez02/blob/main/scr.png)
