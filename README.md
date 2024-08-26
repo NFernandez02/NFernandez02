@@ -34,4 +34,4 @@ Solve puzzles under pressure, unlock doors, and outwit the ever-evolving AI. Can
 - Avoid the attacking entity; use small gaps in some rooms to crawl into and escape the entity.
 
 ![GameConcept](https://github.com/NFernandez02/NFernandez02/blob/main/For%20Illustration%20purposes%20only.png)
-![GameConcept](https://github.com/NFernandez02/NFernandez02/blob/main/demo.mp4)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yAvNtaIj3bw?si=SgaKLRLpXnEVRE3W" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
