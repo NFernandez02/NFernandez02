@@ -20,3 +20,18 @@ Each player will be able to see the area where the opponent is likely to play th
 
 ## Concept
 ![GameConcept](https://github.com/NFernandez02/NFernandez02/blob/main/scr.png)
+
+# Porta Logica: An Escape Room Puzzle Game
+
+## About
+In Porta Logica, a high-stakes escape room puzzle game, your only way out is by mastering logic gates like OR, AND, and NOT. But you're not alone—a relentless entity is on your trail, growing smarter with each level.
+
+Solve puzzles under pressure, unlock doors, and outwit the ever-evolving AI. Can you escape before it catches up?
+
+## Objective
+- Solve a series of logical gate puzzles to escape.
+- Manage a timer; if the timer exceeds, more entities will appear, and they will become more resilient.
+- Avoid the attacking entity; use small gaps in some rooms to crawl into and escape the entity.
+
+![GameConcept](https://github.com/NFernandez02/NFernandez02/blob/main/For%20Illustration%20purposes%20only.png)
+![GameConcept](https://github.com/NFernandez02/NFernandez02/blob/main/demo.mp4)
