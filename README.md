@@ -1,1 +1,1 @@
-[View the Presentation](https://github.com/NFernandez02/NFernandez02/blob/gh-pages/index.html)
+[View the Presentation](https://nfernandez02.github.io/NFernandez02/)
