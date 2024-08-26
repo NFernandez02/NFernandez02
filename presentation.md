@@ -19,7 +19,7 @@ Word Clash: Scrabble Showdown is a multiplayer game that combines Scrabble with 
 Each player will be able to see the area where the opponent is likely to play through shadow placement. This indicates the specific area where your opponent will make their move.
 
 ## Concept
-![GameConcept](https://github.com/NFernandez02/NFernandez02/blob/main/scr.png)
+![GameConcept](https://github.com/NFernandez02/NFernandez02/blob/gh-pages/scr.png)
 
 # Porta Logica: An Escape Room Puzzle Game
 
@@ -33,9 +33,11 @@ Solve puzzles under pressure, unlock doors, and outwit the ever-evolving AI. Can
 - Manage a timer; if the timer exceeds, more entities will appear, and they will become more resilient.
 - Avoid the attacking entity; use small gaps in some rooms to crawl into and escape the entity.
 
-![GameConcept](https://github.com/NFernandez02/NFernandez02/blob/main/For%20Illustration%20purposes%20only.png)
+![GameConcept](https://github.com/NFernandez02/NFernandez02/blob/gh-pages/For%20Illustration%20purposes%20only.png)
 
 # Sample
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yAvNtaIj3bw?si=LJNnoX4r1p5Img-4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [![Watch the trailer](https://img.youtube.com/vi/yAvNtaIj3bw/hqdefault.jpg)](https://youtu.be/yAvNtaIj3bw)
 
