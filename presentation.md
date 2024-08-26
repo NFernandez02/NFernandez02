@@ -33,7 +33,7 @@ Solve puzzles under pressure, unlock doors, and outwit the ever-evolving AI. Can
 - Manage a timer; if the timer exceeds, more entities will appear, and they will become more resilient.
 - Avoid the attacking entity; use small gaps in some rooms to crawl into and escape the entity.
 
-![GameConcept](https://github.com/NFernandez02/NFernandez02/blob/gh-pages/For%20Illustration%20purposes%20only.png)
+![GameConcept](https://raw.githubusercontent.com/NFernandez02/NFernandez02/gh-pages/For%20Illustration%20purposes%20only.png)
 
 # Sample
 
