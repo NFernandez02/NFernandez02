@@ -1,16 +1,20 @@
-## Hi there 👋
+# Word Clash: Scrabble Showdown
 
-<!--
-**NFernandez02/NFernandez02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
+Word Clash: Scrabble Showdown is a multiplayer game that combines Scrabble with a combative approach. The game introduces power-ups to enhance your gameplay by increasing your points, dealing damage, or providing damage reduction.
 
-Here are some ideas to get you started:
+## Objective
+- Each player starts with 150 health points. The player who loses all their health points loses the game.
+- The score you gain from playing a word will be used as your attack damage.
+- Both players will form a word, and the word with the higher score will deal damage to the opponent.
+- Players can use power-ups that can be bought during the game.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Power-Ups
+- **Damage Reduction**: Reduces the value of the opponent's score by 20%.
+- **Attack Multiplier**: Increases your score value by 20%.
+- **Tile Reactivator**: Reactivates the effect on the tile board.
+- **Letter Swap**: Randomly swaps one letter from your domain.
+
+## Note
+Each player will be able to see the area where the opponent is likely to play through shadow placement. This indicates the specific area where your opponent will make their move.
+
